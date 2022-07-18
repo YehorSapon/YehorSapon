@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Yehor Sapon 👋
+- 🌱 I’m currently learning Python
 
 <!--
 **YehorSapon/YehorSapon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
